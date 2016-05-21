@@ -842,12 +842,12 @@ Tags: images, posts, feeds, pages, slidedeck
     right: 22px;
 }
 
-.lens-tool-kit.sd2-nav-thumb.sd2-light .deck-navigation-arrows span { background: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-dark.png') no-repeat; }
-.lens-tool-kit.sd2-nav-thumb.sd2-dark .deck-navigation-arrows span { background: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-light.png') no-repeat; }
+.lens-tool-kit.sd2-nav-thumb.sd2-light .deck-navigation-arrows span { background: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-dark.png') no-repeat; }
+.lens-tool-kit.sd2-nav-thumb.sd2-dark .deck-navigation-arrows span { background: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-light.png') no-repeat; }
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-pos-left .deck-navigation-arrows span,
-.lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-pos-right .deck-navigation-arrows span { background: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-dark.png') no-repeat; }
+.lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-pos-right .deck-navigation-arrows span { background: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-dark.png') no-repeat; }
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-pos-left .deck-navigation-arrows span,
-.lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-pos-right .deck-navigation-arrows span { background: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-light.png') no-repeat; }
+.lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-pos-right .deck-navigation-arrows span { background: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-light.png') no-repeat; }
 .lens-tool-kit.sd2-nav-thumb .deck-navigation-arrows.next span {
     background-position: 0 -18px;
     margin-left: -5px;
@@ -1068,23 +1068,23 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-nav-thumb.sd2-nav-bar.sd2-nav-arrow-style-2.sd2-dark .deck-navigation-arrows:active { background: rgba(255,255,255,.2); }
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-default.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-hanging.sd2-nav-arrow-style-2 .deck-navigation-arrows span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-dark.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-dark.png');
 }
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-default.sd2-nav-pos-left.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-hanging.sd2-nav-pos-left.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-default.sd2-nav-pos-right.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-dark.sd2-nav-hanging.sd2-nav-pos-right.sd2-nav-arrow-style-2 .deck-navigation-arrows span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-dark.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-dark.png');
 }
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-default.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-hanging.sd2-nav-arrow-style-2 .deck-navigation-arrows span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-light.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-light.png');
 }
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-default.sd2-nav-pos-left.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-hanging.sd2-nav-pos-left.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-default.sd2-nav-pos-right.sd2-nav-arrow-style-2 .deck-navigation-arrows span,
 .lens-tool-kit.sd2-nav-thumb.sd2-light.sd2-nav-hanging.sd2-nav-pos-right.sd2-nav-arrow-style-2 .deck-navigation-arrows span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-light.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/nav-arrow-vert-light.png');
 }
 
 /** Shadow styles for frame **/
@@ -1224,7 +1224,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2.png');
 }
 .lens-tool-kit.sd2-arrowstyle-2.sd2-large a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.horizontal span {
@@ -1240,7 +1240,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2-vert.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2-vert.png');
 }
 .lens-tool-kit.sd2-arrowstyle-2.sd2-large a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-medium a.deck-navigation.vertical span {
@@ -1264,7 +1264,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.horizontal span {
     background-position: 0 0;
@@ -1276,7 +1276,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2-vert-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_2-vert-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-2.sd2-small a.deck-navigation.vertical span {
     background-position: 0 0;
@@ -1295,7 +1295,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3.png') !important;
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3.png') !important;
 }
 .lens-tool-kit.sd2-arrowstyle-3.sd2-large a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.horizontal span {
@@ -1311,7 +1311,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3-vert.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3-vert.png');
 }
 .lens-tool-kit.sd2-arrowstyle-3.sd2-large a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-medium a.deck-navigation.vertical span {
@@ -1346,7 +1346,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.horizontal span {
     background-position: 0 0;
@@ -1362,7 +1362,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3-vert-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_3-vert-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-3.sd2-small a.deck-navigation.vertical span {
     background-position: 0 0;
@@ -1424,7 +1424,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4.png');
 }
 .lens-tool-kit.sd2-arrowstyle-4.sd2-large a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.horizontal span {
@@ -1440,7 +1440,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4-vert.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4-vert.png');
 }
 .lens-tool-kit.sd2-arrowstyle-4.sd2-large a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-medium a.deck-navigation.vertical span {
@@ -1461,7 +1461,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.horizontal span {
     background-position: 0 0;
@@ -1473,7 +1473,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4-vert-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_4-vert-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-4.sd2-small a.deck-navigation.vertical span {
     background-position: 0 0;
@@ -1620,7 +1620,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5.png');
 }
 .lens-tool-kit.sd2-arrowstyle-5.sd2-large a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.horizontal span {
@@ -1636,7 +1636,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5-vert.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5-vert.png');
 }
 .lens-tool-kit.sd2-arrowstyle-5.sd2-large a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-medium a.deck-navigation.vertical span {
@@ -1662,7 +1662,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.horizontal span {
     background-position: 0 0;
@@ -1674,7 +1674,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5-vert-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_5-vert-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-5.sd2-small a.deck-navigation.vertical span {
     background-position: 0 0;
@@ -1706,7 +1706,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-8.sd2-large a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-large a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-large a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6.png');
 }
 .lens-tool-kit.sd2-arrowstyle-6.sd2-medium a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-medium a.deck-navigation.horizontal span,
@@ -1730,7 +1730,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-8.sd2-large a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-large a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-large a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6-vert.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6-vert.png');
 }
 .lens-tool-kit.sd2-arrowstyle-6.sd2-medium a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-medium a.deck-navigation.vertical span,
@@ -1761,7 +1761,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-6.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.horizontal span {
@@ -1777,7 +1777,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6-vert-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_6-vert-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-6.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-8.sd2-small a.deck-navigation.vertical span {
@@ -1812,7 +1812,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-9.sd2-medium a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-medium a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-medium a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7.png');
 }
 .lens-tool-kit.sd2-arrowstyle-7.sd2-large a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-large a.deck-navigation.horizontal span,
@@ -1836,7 +1836,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-9.sd2-medium a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-medium a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-medium a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7-vert.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7-vert.png');
 }
 .lens-tool-kit.sd2-arrowstyle-7.sd2-large a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-large a.deck-navigation.vertical span,
@@ -1867,7 +1867,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.horizontal:hover span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.horizontal:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-7.sd2-small a.deck-navigation.horizontal span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.horizontal span {
@@ -1883,7 +1883,7 @@ Tags: images, posts, feeds, pages, slidedeck
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.vertical:hover span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.vertical:active span {
-    background-image: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7-vert-sml.png');
+    background-image: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/arrowstyle_7-vert-sml.png');
 }
 .lens-tool-kit.sd2-arrowstyle-7.sd2-small a.deck-navigation.vertical span,
 .lens-tool-kit.sd2-arrowstyle-9.sd2-small a.deck-navigation.vertical span {
@@ -2680,14 +2680,14 @@ Tags: images, posts, feeds, pages, slidedeck
     font-weight: bold;
     margin-bottom: 10px;
     text-decoration: none;
-    background: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/play-button-alt.png') 0 0 no-repeat;
+    background: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/play-button-alt.png') 0 0 no-repeat;
 }
 .lens-tool-kit.sd2-small .slide-source-custom.slide-type-video .sd2-node-caption .play-video-alternative {
     font-size: 1.1em;
     height: 22px;
     line-height: 22px;
     padding: 0 0 0 27px;
-    background: url('http://tatelucas.github.io/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/play-button-alt-small.png') 0 0 no-repeat;
+    background: url('http://dotdash.net/highfivesalon/wp-content/plugins/slidedeck2-personal/lenses/tool-kit/images/play-button-alt-small.png') 0 0 no-repeat;
 }
 .lens-tool-kit.sd2-medium .slide-source-custom.slide-type-video.custom-layout-body-text .sd2-node-caption .play-video-alternative,
 .lens-tool-kit.sd2-small .slide-source-custom.slide-type-video.custom-layout-body-text .sd2-node-caption .play-video-alternative {

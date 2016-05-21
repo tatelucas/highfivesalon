@@ -652,11 +652,11 @@ TYPOGRAPHY
 */
 /*	@font-face {
     	font-family: 'Font Name';
-    	src: url('http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.eot');
-    	src: url('http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.eot#iefix') format('embedded-opentype'),
-             url('http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.woff') format('woff'),
-             url('http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.ttf') format('truetype'),
-             url('http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.svg#font-name') format('svg');
+    	src: url('http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.eot');
+    	src: url('http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.eot#iefix') format('embedded-opentype'),
+             url('http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.woff') format('woff'),
+             url('http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.ttf') format('truetype'),
+             url('http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/library/fonts/font-name.svg#font-name') format('svg');
     	font-weight: normal;
     	font-style: normal;
 	}
@@ -849,7 +849,7 @@ body {
   color: #000;
   font-style: normal;
   font-weight: 400;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/bodybg.png) center top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/bodybg.png) center top no-repeat;
 }
 
 /* line 28, ../scss/_base.scss */
@@ -876,14 +876,14 @@ Custom Fonts
 ********************/
 @font-face {
   font-family: 'highfive';
-  src: url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/highfive-highfive-webfont.eot");
-  src: url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.eot#iefix") format("embedded-opentype"), url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.woff") format("woff"), url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.ttf") format("truetype"), url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.svg#highfive-webfont") format("svg");
+  src: url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/highfive-highfive-webfont.eot");
+  src: url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.eot#iefix") format("embedded-opentype"), url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.woff") format("woff"), url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.ttf") format("truetype"), url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/highfive-webfont.svg#highfive-webfont") format("svg");
 }
 
 @font-face {
   font-family: 'new_bernardregular';
-  src: url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.eot");
-  src: url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.eot#iefix") format("embedded-opentype"), url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.woff") format("woff"), url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.ttf") format("truetype"), url("http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.svg#new_bernardregular") format("svg");
+  src: url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.eot");
+  src: url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.eot#iefix") format("embedded-opentype"), url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.woff") format("woff"), url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.ttf") format("truetype"), url("http://dotdash.net/highfivesalon/wp-content/themes/h5/library/fonts/n_bernard-webfont.svg#new_bernardregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -1046,7 +1046,7 @@ HEADER SYTLES
   height: 57px;
   display: block;
   text-indent: -9999px;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/logo.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/logo.png) no-repeat;
 }
 
 /*********************
@@ -1079,7 +1079,7 @@ and more scalable.
 }
 /* line 251, ../scss/_base.scss */
 .nav#menu-main-nav {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/tape.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/tape.png) no-repeat;
   /* min-width: 547px; */
   width: 960px;
   min-height: 101px;
@@ -1105,7 +1105,7 @@ and more scalable.
 }
 /* line 271, ../scss/_base.scss */
 .nav li.booknow a, .nav li.booknow a:hover {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/booknow.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/booknow.png) no-repeat;
   width: 299px;
   height: 110px;
   text-indent: -9999px;
@@ -1233,7 +1233,7 @@ HOME PAGE
 }
 /* line 529, ../scss/_base.scss */
 .home #inner-content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/homepagebg.png) left top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/homepagebg.png) left top no-repeat;
   margin: -74px auto 0;
   position: relative;
   z-index: 100;
@@ -1249,7 +1249,7 @@ HOME PAGE
 
 /* line 546, ../scss/_base.scss */
 .page-template-page-philosophy-php #content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/philosophy.png) center top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/philosophy.png) center top no-repeat;
   min-height: 950px;
   margin: -228px 0 0 0;
   z-index: 1998;
@@ -1275,7 +1275,7 @@ HOME PAGE
 
 /* line 575, ../scss/_base.scss */
 .page-template-page-where-php #inner-content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/wherebg.png) left top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/wherebg.png) left top no-repeat;
   margin: -84px auto 0;
   position: relative;
   z-index: 100;
@@ -1310,7 +1310,7 @@ HOME PAGE
 }
 /* line 612, ../scss/_base.scss */
 .page-template-page-pictures-php #content #inner-content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/picturesbg.png) 2px top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/picturesbg.png) 2px top no-repeat;
   width: 1231px;
   margin: 0 0 0 -70px;
   height: 795px;
@@ -1326,7 +1326,7 @@ HOME PAGE
 /* line 627, ../scss/_base.scss */
 .page-template-page-pictures-php .menu-what-menu-container li, .page-template-page-pictures-php .menu-how-menu-container li {
   padding: 10px 0;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/dashes.png) left bottom repeat-x;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/dashes.png) left bottom repeat-x;
   text-align: center;
 }
 /* line 632, ../scss/_base.scss */
@@ -1348,7 +1348,7 @@ HOME PAGE
 }
 /* line 651, ../scss/_base.scss */
 .page-template-page-what-php #content #inner-content, .page-template-page-services-php #content #inner-content, .page-template-page-how-php #content #inner-content, .page-template-page-video-php #content #inner-content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/whatbg.png) 2px top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/whatbg.png) 2px top no-repeat;
   width: 1231px;
   margin: 0 0 0 -70px;
   height: 624px;
@@ -1373,7 +1373,7 @@ HOME PAGE
 /* line 675, ../scss/_base.scss */
 .page-template-page-what-php .menu-what-menu-container li, .page-template-page-what-php .menu-how-menu-container li, .page-template-page-services-php .menu-what-menu-container li, .page-template-page-services-php .menu-how-menu-container li, .page-template-page-how-php .menu-what-menu-container li, .page-template-page-how-php .menu-how-menu-container li, .page-template-page-video-php .menu-what-menu-container li, .page-template-page-video-php .menu-how-menu-container li {
   padding: 10px 0;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/dashes.png) left bottom repeat-x;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/dashes.png) left bottom repeat-x;
   text-align: center;
 }
 /* line 680, ../scss/_base.scss */
@@ -1440,7 +1440,7 @@ HOME PAGE
 
 /* line 741, ../scss/_base.scss */
 .page.page-template-page-video-php #content #inner-content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/videobg.png) 2px top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/videobg.png) 2px top no-repeat;
 }
 /* line 745, ../scss/_base.scss */
 .page.page-template-page-video-php #content #inner-content .entry-content {
@@ -1462,7 +1462,7 @@ HOME PAGE
 /* line 760, ../scss/_base.scss */
 .page.page-template-page-video-php #content #inner-content .entry-content .wpvl_auto_thumb_box .wpvl_auto_thumb_play {
   display: block;
-  background: rgba(255, 255, 255, 0.7) url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/videoplay.png) center center no-repeat;
+  background: rgba(255, 255, 255, 0.7) url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/videoplay.png) center center no-repeat;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
   height: 100%;
@@ -1620,7 +1620,7 @@ HOME PAGE
 
 /* line 916, ../scss/_base.scss */
 .page-template-custom-page-who-php #inner-content, .single-stylist #inner-content {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/whobg.png) left top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/whobg.png) left top no-repeat;
   margin: -60px auto 0;
   position: relative;
   z-index: 100;
@@ -1658,7 +1658,7 @@ HOME PAGE
   width: 100%;
   height: 100%;
   position: absolute;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/polaroid.png) left top no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/polaroid.png) left top no-repeat;
   top: 0;
   left: 0;
   z-index: 30;
@@ -1729,11 +1729,11 @@ HOME PAGE
 }
 /* line 1021, ../scss/_base.scss */
 .page-template-custom-page-who-php .stylist-content .instagramlink, .single-stylist .stylist-content .instagramlink {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/smallinsta.png) 0 0 no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/smallinsta.png) 0 0 no-repeat;
 }
 /* line 1025, ../scss/_base.scss */
 .page-template-custom-page-who-php .stylist-content .pinterestlink, .single-stylist .stylist-content .pinterestlink {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/smallpin.png) 0 0 no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/smallpin.png) 0 0 no-repeat;
 }
 /* line 1031, ../scss/_base.scss */
 .page-template-custom-page-who-php .entry-content, .single-stylist .entry-content {
@@ -1774,7 +1774,7 @@ HOME PAGE
 /* line 1067, ../scss/_base.scss */
 .stylistlist ul li a:hover {
   color: #000;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/dottedline.png) left bottom repeat-x;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/dottedline.png) left bottom repeat-x;
 }
 /* line 1072, ../scss/_base.scss */
 .stylistlist ul li a img {
@@ -1786,7 +1786,7 @@ HOME PAGE
   position: absolute;
   left: 17px;
   top: 591px;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/whomenu.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/whomenu.png) no-repeat;
   width: 488px;
   height: 130px;
   z-index: 1999;
@@ -1813,7 +1813,7 @@ HOME PAGE
 /* line 1109, ../scss/_base.scss */
 .booknowinfo {
   position: absolute;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/postit.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/postit.png) no-repeat;
   width: 483px;
   height: 425px;
   left: 436px;
@@ -1897,19 +1897,19 @@ HOME PAGE
 }
 /* line 1183, ../scss/_base.scss */
 .social a.facebook {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) -267px 0 no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) -267px 0 no-repeat;
 }
 /* line 1187, ../scss/_base.scss */
 .social a.twitter {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) -175px 0 no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) -175px 0 no-repeat;
 }
 /* line 1191, ../scss/_base.scss */
 .social a.instagram {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) no-repeat;
 }
 /* line 1195, ../scss/_base.scss */
 .social a.pinterest {
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) -88px 0 no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/social-icons.png) -88px 0 no-repeat;
 }
 
 /******************************************************************
@@ -2208,7 +2208,7 @@ GALLERY
   position: absolute;
   top: 137px;
   left: 417px;
-  background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/images/gallery-overlay.png) no-repeat;
+  background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/images/gallery-overlay.png) no-repeat;
   height: 389px;
   width: 609px;
   z-index: 9999;
@@ -2721,7 +2721,7 @@ query for retina AND a certain size if you want. Go Nuts.
   .icon {
   	width: 24px;
   	height: 24px;
-  	background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/img/test.png) no-repeat;
+  	background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/img/test.png) no-repeat;
   }
   
   For retina screens, we have to make some adjustments, so that image
@@ -2729,7 +2729,7 @@ query for retina AND a certain size if you want. Go Nuts.
   dimensions, this is what we would put in our retina stylesheet:
   
   .icon {
-  	background: url(http://tatelucas.github.io/highfivesalon/wp-content/themes/h5/library/css/img/test@2x.png) no-repeat;
+  	background: url(http://dotdash.net/highfivesalon/wp-content/themes/h5/library/css/img/test@2x.png) no-repeat;
   	background-size: 24px 24px;
   }
   
